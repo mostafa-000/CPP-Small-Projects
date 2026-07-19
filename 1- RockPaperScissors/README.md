@@ -1,8 +1,4 @@
-
-
-![Uploading ChatGPT Image 19 يوليو 2026، 03_26_19 ص.png…]()
-
-
+<img width="1536" height="1024" alt="G" src="https://github.com/user-attachments/assets/61c691e0-e78b-45f2-a4aa-65236b62a1f5" />
 
 </p>
 
