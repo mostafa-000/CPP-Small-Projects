@@ -1,5 +1,6 @@
-<img width="1536" height="1024" alt="G" src="https://github.com/user-attachments/assets/61c691e0-e78b-45f2-a4aa-65236b62a1f5" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61c691e0-e78b-45f2-a4aa-65236b62a1f5" width="650">
+</p>
 </p>
 
 A simple console-based **Rock, Paper, Scissors** game written in **C++** where the player competes against the computer over multiple rounds.
