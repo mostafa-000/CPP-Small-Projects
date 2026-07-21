@@ -1,6 +1,25 @@
 # Project - 03 - Update - 02 - BankClientManagementSystem-UsersAndPermissions
 
 ((الصورة هنا))
+<table align="center" width="100%" border="1">
+  <tr>
+    <td align="center">
+      <h2>BankClientManagementSystem-UsersAndPermissions</h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+<img width="1536" height="1024" alt="345" src="https://github.com/user-attachments/assets/b0109290-34f9-44ab-9a80-f886bb1b1d60" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 > 🔄 This project is **Update 02** on [Project - 03 - BankClientManagementSystem](https://github.com/mostafa-000/CPP-Small-Projects/tree/main/Project%20-%2003%20-%20BankClientManagementSystem), adding a full **Login System** and **User Permissions Management** module on top of the original bank client management system.
 
