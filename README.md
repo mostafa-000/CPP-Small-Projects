@@ -10,9 +10,9 @@
 </td>
 
 <td align="right" width="20%">
-
-<img width="500" height="500" alt="Black And White Art GIF by Pi-Slices" src="https://github.com/user-attachments/assets/7b217139-b41d-4d5b-8bee-cc197b0f85cc" />
-
+<img width="120" height="120"
+     alt="Black And White Art GIF by Pi-Slices"
+     src="https://github.com/user-attachments/assets/7b217139-b41d-4d5b-8bee-cc197b0f85cc" />
 </td>
 </tr>
 </table>
