@@ -365,8 +365,8 @@ void Deposit()
 {
 	double NumMoney;
 	cout << "\n <=*========================================>";
-	cout << "\n   | Deposit Your Balanc BRO IS:  " << CurrentClient.AccountBalance << "$  :)";
-	cout << "\n <=*========================================>";
+cout << "\n   | Your Current Balance is:  " << CurrentClient.AccountBalance << "$  :)";
+cout << "\n <=*========================================>";
 	cout << "\n   | Entrr Number Money? ";
 		cin >> NumMoney;
 
@@ -409,8 +409,8 @@ void CheckBalanc_ATM()
 {
 
 	cout << "\n <=*========================================>";
-	cout << "\n   | Your Balanc BRO IS:  " << CurrentClient.AccountBalance << "$  :)";
-	cout << "\n <=*========================================>";
+cout << "\n   | Your Current Balance is:  " << CurrentClient.AccountBalance << "$  :)";
+    cout << "\n <=*========================================>";
 
 }
 ////////////////////////////////////////////////////
@@ -514,7 +514,7 @@ void Logen_ATM()
 
 		if (LoginFaild)
 		{
-			cout << ">>| Hello Bro >> Enter !!!\n";
+			cout << ">>| Invalid Account Number or PinCode, Try Again!\n";
 		}
 
 		cout << " >| Enter Username?\n";
