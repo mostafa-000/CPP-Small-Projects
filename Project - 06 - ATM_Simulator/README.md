@@ -1,6 +1,25 @@
-# Project - 06 - ATM_Simulator
 
-((الصورة هنا))
+<table align="center" width="100%" border="1">
+  <tr>
+    <td align="center">
+      <h2>ATM_Simulator</h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+<img width="1536" height="1024" alt="564576" src="https://github.com/user-attachments/assets/c377a35e-2b45-43ff-8841-06f8558f847e" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 > 💡 This project is built on the same client data model used in [Project - 03 - BankClientManagementSystem](https://github.com/mostafa-000/CPP-Small-Projects/tree/main/Project%20-%2003%20-%20BankClientManagementSystem), reusing the `stClient` structure and the `Clients.txt` file, but simulates a completely different scenario: an **ATM machine** used directly by the client instead of a bank employee managing accounts.
 
