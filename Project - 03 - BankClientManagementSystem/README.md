@@ -1,9 +1,5 @@
 <h1 align="center">🏦 Bank Client Management System (C++)</h1>
 
-<p align="center">
-  ((الصورة هنا))
-</p>
-
 
 <table align="center" width="100%" border="1">
   <tr>
